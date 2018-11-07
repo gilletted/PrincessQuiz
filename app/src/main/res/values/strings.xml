@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Princess Quiz</string>
+    <string name="intro">How well do you know your princesses? Take this quick quiz and find out!</string>
+
+    <string name="question_10_edit_text_hint">enter your answer here</string>
+
+    <!--quiz questions-->
+    <string name="q1">Which two princesses have red hair?</string>
+    <string name="q2">Who is the sister of Elsa from Frozen?</string>
+    <string name="q3">Snow White ate a poisoned apple given to her by which person disguised as an old woman?</string>
+    <string name="q4">Which of these princesses has a supernatural power?</string>
+    <string name="q5">Ariel\'s father King Triton has how many daughters?</string>
+    <string name="q6">Tiana is the main character from which of these movies?</string>
+    <string name="q7">The evil fairy Malfiecient cursed Aurora to prick her finger and die on this?</string>
+    <string name="q8">Queen Narissa is the evil stepmother of which princess?</string>
+    <string name="q9">The song \"Bibbidi-Bobbidi-Boo\" is from which movie?</string>
+    <string name="q10">Princess Jasmine is from the kingdom of?</string>
+
+    <!--q1 answer choices-->
+    <string name="q1_choice_one">Pocahontas</string>
+    <string name="q1_choice_two">Merida</string>
+    <string name="q1_choice_three">Ariel</string>
+    <string name="q1_choice_four">Belle</string>
+
+    <!--q2 answer choices-->
+    <string name="q2_choice_one">Maria</string>
+    <string name="q2_choice_two">Anna</string>
+    <string name="q2_choice_three">Jasmine</string>
+    <string name="q2_choice_four">Lydia</string>
+
+    <!--q3 answer choices-->
+    <string name="q3_choice_one">Little Bo Peep</string>
+    <string name="q3_choice_two">Cruella DeVille</string>
+    <string name="q3_choice_three">The Evil Queen</string>
+    <string name="q3_choice_four">Dory</string>
+
+    <!--q4 answer choices-->
+    <string name="q4_choice_one">Rapunzel</string>
+    <string name="q4_choice_two">The Little Mermaid</string>
+    <string name="q4_choice_three">Mulan</string>
+    <string name="q4_choice_four">Jasmine</string>
+
+    <!--q5 answer choices-->
+    <string name="q5_choice_one">7</string>
+    <string name="q5_choice_two">3</string>
+    <string name="q5_choice_three">1</string>
+    <string name="q5_choice_four">33</string>
+
+    <!--q6 answer choices-->
+    <string name="q6_choice_one">The Princess and The Frog</string>
+    <string name="q6_choice_two">Tangled</string>
+    <string name="q6_choice_three">Aladdin</string>
+    <string name="q6_choice_four">Sleeping Beauty</string>
+
+    <!--q7 answer choices-->
+    <string name="q7_choice_one">a prickly pear</string>
+    <string name="q7_choice_two">a cocklebur</string>
+    <string name="q7_choice_three">the spindle of a spinning wheel</string>
+    <string name="q7_choice_four">a pinecone</string>
+
+    <!--q8 answer choices-->
+    <string name="q8_choice_one">Giselle</string>
+    <string name="q8_choice_two">Drizella</string>
+    <string name="q8_choice_three">Anastasia</string>
+    <string name="q8_choice_four">Aurora</string>
+
+    <!--q9 answer choices-->
+    <string name="q9_choice_one">Toy Story</string>
+    <string name="q9_choice_two">Beauty and the Beast</string>
+    <string name="q9_choice_three">Cinderella</string>
+    <string name="q9_choice_four">Mary Poppins</string>
+
+    <string name="see_how_you_did">Let\'s see how you did!</string>
+    <string name="start_over">start over</string>
+
+</resources>
